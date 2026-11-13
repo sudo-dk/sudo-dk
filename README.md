@@ -1,9 +1,8 @@
 ### Darius Kovessi
 
-I build AI automation. In practice that means multi-agent systems, MCP servers,
+I build multi-agent systems, MCP servers,
 and n8n workflows that take real, repetitive work off people's plates.
 
-I built and operate a production multi-agent support triage and auto-response platform.
 
 **Building**
 - [searchapi-mcp](https://github.com/sudo-dk/searchapi-mcp): an MCP server that
